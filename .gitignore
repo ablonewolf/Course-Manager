@@ -1,0 +1,7 @@
+node_modules
+package-lock.json
+.idea/vcs.xml
+.idea/Expense-Manager-With-React.iml
+.idea/modules.xml
+.idea/.gitignore
+.idea/inspectionProfiles/Project_Default.xml
